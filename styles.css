@@ -17,7 +17,7 @@ div.post .post-header div:first-child {
    display: inline-block;
    width: 80%;
 }
-div.post .post-header div:last-child {
+s.date {
     display: inline-block;
     width: 20%;
  }
